@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alpha953066
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning assembly
